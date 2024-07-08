@@ -3,4 +3,5 @@ Can be installed on your system using the following commands, first if your inst
 ```shell
 # run to install in your nix-env.
 nix-env -i -f ./binaryninja.nix
+nix-env -i -f ./scc.nix
 ```
